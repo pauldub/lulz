@@ -1,0 +1,7 @@
+*.hi
+*.ho
+*.o
+.*.swp
+.*.swn
+.*.swo
+bot
